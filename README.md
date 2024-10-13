@@ -12,7 +12,7 @@
 
 
 ## 使い方
-取得可能な地域名は、'regions_sample.py'を実行して見てください。
+取得可能な地域名は、`regions_sample.py`を実行して見てください。
 
-警報など注意報を取得するサンプルは'getalert_sample.py'です。
+警報など注意報を取得するサンプルは`getalert_sample.py`です。
 好きにコードを変えても大丈夫です。
