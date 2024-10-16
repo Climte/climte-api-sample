@@ -16,3 +16,6 @@
 
 警報など注意報を取得するサンプルは`getalert_sample.py`です。
 好きにコードを変えても大丈夫です。
+
+
+※keyがいるので使う際は私の[Twitter](https://twitter.com/bL5CA6ngtFu3pjy)のDMまで来てください。
