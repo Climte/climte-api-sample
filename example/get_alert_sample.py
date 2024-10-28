@@ -2,7 +2,7 @@ import requests
 
 # 地域名を指定
 region_name = "札幌市"
-api_key = "あなたのapikey"
+api_key = "apikey"
 
 # 警報をリクエストするためのURL
 api_url = f"https://weather-aler-api.onrender.com/weather/{region_name}?api_key={api_key}"
